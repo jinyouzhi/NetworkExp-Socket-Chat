@@ -1,6 +1,7 @@
-#Video Chat via LAN
-**Socket Programming**
+#NetworkExp-Socket-Chat
 
-Computer Network Experiment【2017 Spring】
+Computer Network【2017 Spring】
+
+**Experiment: Socket Programming**
 
 Video and Audio Chat via LAN based on Python, OpenCV and PyAudio
